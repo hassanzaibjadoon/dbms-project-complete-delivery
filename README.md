@@ -423,34 +423,6 @@ DB_PASSWORD=xKp9mDaNPNTzCubkMSGQXaJvjMHItuVl
 
 ---
 
-## 📸 System Screenshots
-
-### Homepage
-![Homepage](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/homepage.png)
-
-### Admin Dashboard
-![Admin Dashboard](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/admin-dashboard.png)
-
-### Event Management
-![Event Management](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/manage-events.png)
-
-### Booking System
-![Booking System](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/booking-system.png)
-
-### Seat Selection
-![Seat Selection](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/seat-selection.png)
-
-### QR Code Generation
-![QR Code](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/qr-code.png)
-
-### Email Confirmation
-![Email Confirmation](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/confirmation-email.png)
-
-### Analytics Dashboard
-![Analytics](https://raw.githubusercontent.com/hassanzaibjadoon/DBMS_PROJECT/main/screenshots/analytics.png)
-
----
-
 ## 🛠️ Technical Implementation
 
 ### Technologies Used
